@@ -7,6 +7,6 @@
     "Requirements": [],
     "AssemblyName": "NoFilmGrainWrath.dll",
     "EntryMethod": "NoFilmGrainWrath.Main.Load",
-    "HomePage": "https://github.com/thehambeard/NoFilmGrainWrath",
+    "HomePage": "https://github.com/thehambeard/NoFilmGrainWrath/releases",
     "Repository": "https://raw.githubusercontent.com/thehambeard/NoFilmGrainWrath/main/Repo.json"
 }
